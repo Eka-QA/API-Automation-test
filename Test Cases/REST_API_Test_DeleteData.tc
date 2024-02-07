@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>REST_API_Test_DeleteData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cdf1bfa-c0ee-412e-8dc1-63a7d9af6b43</testCaseGuid>
+</TestCaseEntity>
